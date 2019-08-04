@@ -24,3 +24,13 @@ step 9: Type url # localhost/mongo1/dell
 
 
 You are ready:)
+
+Note:- 
+
+C:\xampp\htdocs\mongo1\dell-master
+
+-- dashboard.html(Starting page)
+
+-- index.html(Table builder)
+
+-- main.html (Final table)
